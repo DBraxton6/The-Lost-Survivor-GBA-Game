@@ -1,4 +1,4 @@
-To run the game, you must install "VisualboyAdvance"
+To run the game, you must install "VisualboyAdvance".
 The actual game file is "DaishaBraxton - LostSurvivor.gba"
 
 
