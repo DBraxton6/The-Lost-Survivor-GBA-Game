@@ -1,4 +1,5 @@
 --- The Code ---
+
 The main.c file is where majority of the game processing is occuring. It #include
 all of the other files which contain code for scrolling backgrounds, sound, customized
 sprites, game "screens" (splash, instructions, level 1, win/lose, etc.), and collisions.
